@@ -1,4 +1,4 @@
-package com.mindorks.framework.parallaxandroid.adapter
+package com.mindorks.example.parallax.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.mindorks.framework.parallaxandroid.R
-import com.mindorks.framework.parallaxandroid.adapter.BooksRecyclerAdapter.*
+import com.mindorks.example.parallax.R
+import com.mindorks.example.parallax.adapter.BooksRecyclerAdapter.*
 import com.mindorks.framework.parallaxandroid.model.Books
 
 class BooksRecyclerAdapter(private val mBooks: List<Books>) : RecyclerView.Adapter<ViewHolder>() {

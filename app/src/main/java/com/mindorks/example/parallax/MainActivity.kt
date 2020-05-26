@@ -1,4 +1,4 @@
-package com.mindorks.framework.parallaxandroid
+package com.mindorks.example.parallax
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
