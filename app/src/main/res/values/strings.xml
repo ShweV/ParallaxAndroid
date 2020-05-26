@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParallaxAndroid</string>
+    <string name="books">books</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="subtitle">subtitle</string>
+    <string name="description">description</string>
+</resources>
